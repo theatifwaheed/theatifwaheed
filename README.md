@@ -11,7 +11,7 @@
 <br><br>
 
 ## Assalam O Alaikum! I am [Atif Waheed King](https://lnkd.in/e9Tk5UrJ)
-<hr>
+
 
 
 [![Facebook Badge](https://img.shields.io/badge/-@theatifwaheed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/maddhruv)](https://facebook.com/theatifwaheed)
