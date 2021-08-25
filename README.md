@@ -58,7 +58,7 @@
     <a target="_blank" href="https://lnkd.in/e9Tk5UrJ"><img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" width="20%" height="20%" alt="Web/Blog1"></a>
   </li>
   <li>
-  <a target="_blank" href="https://theatifwaheed.github.io/"><img src="https://theatifwaheed.github.io/assets/img/favicon.png" width="50%" height="50%" alt="Web/Blog2"></a>
+  <a target="_blank" href="https://theatifwaheed.github.io/"><img src="https://theatifwaheed.github.io/assets/img/favicon.png" width="50" height="50" alt="Web/Blog2"></a>
   </li>
   </ul>
 
