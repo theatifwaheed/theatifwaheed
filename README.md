@@ -52,13 +52,13 @@
   <hr>
   
 <details open>
- <summary> 😇 <b>My Websites/Blogs</b>: </summary>
+ <summary> 😇 <b>My Websites/Blogs</b>: </summary><br><br>
 <ul>
   <li>
-    <a target="_blank" href="https://lnkd.in/e9Tk5UrJ"><img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" width="20%" height="20%" alt="Web/Blog1"></a>
+    <a target="_blank" href="https://lnkd.in/e9Tk5UrJ"><img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" width="20%" height="20%" alt="Web/Blog1"> <h4> Paid Courses For Free</h4></a>
   </li>
   <li>
-  <a target="_blank" href="https://theatifwaheed.github.io/"><img src="https://theatifwaheed.github.io/assets/img/favicon.png" width="50" height="50" alt="Web/Blog2"></a>
+    <a target="_blank" href="https://theatifwaheed.github.io/"> <h4>My Lovely PortFolio</h4></a>
   </li>
   </ul>
 
