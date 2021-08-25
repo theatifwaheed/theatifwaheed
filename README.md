@@ -16,7 +16,6 @@
   A Passionate Flutter Developer from Pakistan
 </h3>
 
-<center>
 
 [![Facebook Badge](https://img.shields.io/badge/-@theatifwaheed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/maddhruv)](https://facebook.com/theatifwaheed)
 [![YouTube Badge](https://img.shields.io/badge/-@theatifwaheed-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/thetechrie)](https://www.youtube.com/thetechrie) 
@@ -24,7 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@theatifwaheed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theatifwaheed/)](https://www.linkedin.com/in/theatifwaheed/)
 [![Gmail Badge](https://img.shields.io/badge/-theatifwaheed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theatifwaheed@gmail.com)](mailto:theatifwaheed@gmail.com)
 
-  </center>
+
 <hr>
 <br><br>
 
@@ -58,10 +57,10 @@
  <summary> 😇 <b>My Websites/Blogs</b>: </summary><br><br>
 <ul>
   <li>
-    <a target="_blank" href="https://lnkd.in/e9Tk5UrJ"><img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" width="20%" height="20%" alt="Web/Blog1"> <h4> Paid Courses For Free</h4></a>
+    <a target="_blank" href="https://lnkd.in/e9Tk5UrJ"><img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" width="20%" height="20%" alt="Web/Blog1">: Paid Courses For Free</a>
   </li>
-  <li>
-    <a target="_blank" href="https://theatifwaheed.github.io/"> <h4>My Lovely PortFolio</h4></a>
+  <li><h4>
+    <a target="_blank" href="https://theatifwaheed.github.io/"> My Lovely PortFolio</a></h4>
   </li>
   </ul>
 
