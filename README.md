@@ -56,7 +56,7 @@
  <summary> 😇 <b>My Websites/Blogs</b>: </summary><br><br>
 <ul>
   <li>
-    <a target="_blank" href="https://lnkd.in/e9Tk5UrJ"><img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" width="20%" height="20%" alt="Web/Blog1"> (Paid Courses For Free)</a>
+    <a target="_blank" href="https://theatifwaheed.com"><img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" width="20%" height="20%" alt="Web/Blog1"> (Paid Courses For Free)</a>
   </li>
   <li><h4>
     <a target="_blank" href="https://theatifwaheed.github.io/"> My Lovely PortFolio</a></h4>
