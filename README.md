@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://lnkd.in/e9Tk5UrJ" target="_blank">
-    <img src="https://4.bp.blogspot.com/-1NaetpfW0Ts/X05mquj5ECI/AAAAAAAAA5I/XJn3FukCpxY7aXTaVo1zycS9HYdsOB0DwCK4BGAYYCw/s1600/TheTechrie%2Bwhit.png" height="60%" width="60%" align="left" >
+    <img src="https://github.com/theatifwaheed/Images-GitHub/blob/master/onlinelogomaker-111221-2329-0917-500-removebg-preview.png" height="60%" width="60%" align="left" >
   </a>
   <a href="https://theatifwaheed.github.io/" target="_blank">
     <img src="https://theatifwaheed.github.io/assets/img/favicon.png" align="right" >
