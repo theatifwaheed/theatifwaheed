@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="https://github.com/theatifwaheed/theatifwaheed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
+
 
 <p>
   <a href="https://lnkd.in/e9Tk5UrJ" target="_blank">
@@ -82,7 +88,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p align="center">
-  <img src="https://github.com/theatifwaheed/theatifwaheed/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
