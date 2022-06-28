@@ -1,8 +1,3 @@
-
-
-
-
-
 <p>
   <a href="https://lnkd.in/e9Tk5UrJ" target="_blank">
     <img src="https://github.com/theatifwaheed/Images-GitHub/blob/master/onlinelogomaker-111221-2329-0917-500-removebg-preview.png" height="70%" width="70%" align="left" >
@@ -47,7 +42,8 @@
 
 <hr>
 <!-- <center> -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=theatifwaheed&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![](https://raw.githubusercontent.com/theatifwaheed/github-stats-transparent/output/generated/overview.svg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=theatifwaheed&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
+![](https://raw.githubusercontent.com/theatifwaheed/github-stats-transparent/output/generated/overview.svg)
 <!-- ![](https://raw.githubusercontent.com/theatifwaheed/github-stats-transparent/output/generated/languages.svg) -->
   
   <hr>
@@ -81,4 +77,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/theatifwaheed/theatifwaheed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
