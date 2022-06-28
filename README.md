@@ -41,6 +41,12 @@
 -->
 
 <hr>
+<p align="center">
+  <img src="https://github.com/theatifwaheed/theatifwaheed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<hr>
+<hr>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theatifwaheed&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
@@ -80,8 +86,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <img src="https://github.com/theatifwaheed/theatifwaheed/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
