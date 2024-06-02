@@ -57,7 +57,7 @@
      <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />&nbsp;
-     <a src=https://isar.dev/isar.svg >ISAR DB</a>&nbsp;
+     <br/><a src=https://isar.dev/isar.svg >ISAR DB</a>
    </div>
   </td>
   </tr>
@@ -87,8 +87,7 @@
        <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 />&nbsp;
        <img src=https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white/>&nbsp;
-       <img src=https://aleen42.github.io/badges/src/zeplin.svg/>&nbsp;
-       
+       <br/><a src=https://zeplin.io/ >ZEPLIN</a>
       </div>
      </td>
   </tr>
@@ -104,6 +103,28 @@
      </div>
     </td>
 </table>
+
+## Statistics
+
+<div align="center">
+  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Atif Waheed Profile Summary Card">
+  </a>
+  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Atif Waheed Profile Summary Card">
+  </a>
+  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Atif Waheed Profile Summary Card">
+  </a>
+  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Atif Waheed Profile Summary Card">
+  </a>
+  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Atif Waheed Profile Summary Card">
+  </a>
+</div>  
+    
+<br/>
 
 ![Bottom Image](https://raw.githubusercontent.com/yousufkalim/yousufkalim/master/images/bottom.svg)
 
