@@ -4,7 +4,6 @@
 ### Skills Overview:
 
 - 🚀 **Mobile Maven**: Flutter and Dart specialist from more than 2 years, Native java for 4 months.
-
 - 📱 **Backstage Sorcery**: SQL, MySQL, SQFLite, Isar, and Restful APIs.
 - 🌐 **Web Wizardry**: HTML, CSS, JavaScript (basic), and Bootstrap.
 - 🚀 **VCS**: GitHub & GitLab.
@@ -59,21 +58,13 @@
 
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 -->
-
+<!--
 <hr>
 <p align="center">
   <img src="https://github.com/theatifwaheed/theatifwaheed/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <hr>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=theatifwaheed&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/theatifwaheed/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/theatifwaheed/github-stats-transparent/output/generated/languages.svg)
-
-  <hr>
-  
 <details open>
  <summary> 😇 <b>My Websites/Blogs</b>: </summary><br><br>
 <ul>
@@ -85,7 +76,7 @@
   </li>
   </ul>
 
-</details>
+</details> -->
 
 <!--
 **theatifwaheed/theatifwaheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
