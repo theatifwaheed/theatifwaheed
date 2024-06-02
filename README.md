@@ -78,12 +78,12 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-     <h2 align="center">Cloud & Mobile App Dev</h2>
+     <h2 align="center">Mobile App Dev & Cloud</h2>
      <div class="note" align="center">
-      <img src=https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white />&nbsp;   
       <img src=https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white />&nbsp;
       <img src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white />&nbsp;
       <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />&nbsp;
+      <img src=https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white />&nbsp;
      </div>
     </td>
    <td valign="top" width="33%">
