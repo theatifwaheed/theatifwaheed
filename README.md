@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Atif Waheed</h1>
 <h3 align="center">I'm Experienced Flutter developer with 2+ years of success, leading FYP projects and deploying 25+ apps. Skilled in team leadership and committed to innovation and project success.</h3>
-[![](https://visitcount.itsvg.in/api?id=theatifwaheed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Let's Connect :coffee:
+
+ <p align="center">
+ 	<a href="https://github.com/theatifwaheed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+ 	<a href="https://www.linkedin.com/in/theatifwaheed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+ 	<a href="https://www.facebook.com/theatifwaheed/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+ 	<a href="https://www.instagram.com/theatifwaheed/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+ 	<!-- <a href="https://twitter.com/yousuf_kalim"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a> -->
+ </p>
 
 ## Skills Overview:
 
