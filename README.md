@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Atif</h1>
+<h3 align="center">Experienced Flutter developer with 2+ years of success, leading FYP projects and deploying 25+ apps. Skilled in team leadership and committed to innovation and project success. Here's a glimpse into my skills and passions:</h3>
+
+### Skills Overview:
+
+- 🚀 **Mobile Maven**: Flutter and Dart specialist from more than 2 years, Native java for 4 months.
+<!-- - 🌐 **Full Stack MERN Developer**: Proficient in MongoDB, Express.js, and Node.js for server-side scripting, and React for front-end in providing full stack applications. -->
+- 📱 **Backstage Sorcery**: SQL, MySQL, SQFLite, Isar, and Restful APIs.
+- 🌐 **Web Wizardry**: HTML, CSS, JavaScript (basic), and Bootstrap.
+- 🚀 **VCS**: GitHub & GitLab.
+<!-- - 🛠️ **Framework Architect**: Proficiency in PHP and Laravel. -->
+- 💾 **Database Dynamo**: Firebase.
+- 🎨 **Design Connoisseur**: Figma, Adobe XD, for graphic design.
+- 📱 **State Management**: GetX and Bloc.
+- 🚀 **Others**: ASO, SEO, Unit Tests, Widget Tests, CI/CD & SDKs Integration.
+<!-- 
 <p>
   <a href="https://lnkd.in/e9Tk5UrJ" target="_blank">
     <img src="https://github.com/theatifwaheed/Images-GitHub/blob/master/onlinelogomaker-111221-2329-0917-500-removebg-preview.png" height="70%" width="70%" align="left" >
@@ -9,18 +25,17 @@
 <br><br>
 
 ## <h1>Assalam O Alaikum! I'm "[ATIF WAHEED KING](https://lnkd.in/e3UDC6MY)"</h1>
+
 <hr>
 <h3 align="center">
   A Passionate Flutter Developer from Pakistan
 </h3>
 
-
 [![Facebook Badge](https://img.shields.io/badge/-@theatifwaheed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/maddhruv)](https://facebook.com/theatifwaheed)
-[![YouTube Badge](https://img.shields.io/badge/-@theatifwaheed-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/thetechrie)](https://www.youtube.com/thetechrie) 
-[![Twitter Badge](https://img.shields.io/badge/-@th3atifwaheed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/th3atifwaheed)](https://twitter.com/th3atifwaheed) [![Instagram Badge](https://img.shields.io/badge/-@theatifwaheed-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/theatifwaheed)](https://instagram.com/theatifwaheed) 
+[![YouTube Badge](https://img.shields.io/badge/-@theatifwaheed-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/thetechrie)](https://www.youtube.com/thetechrie)
+[![Twitter Badge](https://img.shields.io/badge/-@th3atifwaheed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/th3atifwaheed)](https://twitter.com/th3atifwaheed) [![Instagram Badge](https://img.shields.io/badge/-@theatifwaheed-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/theatifwaheed)](https://instagram.com/theatifwaheed)
 [![Linkedin Badge](https://img.shields.io/badge/-@theatifwaheed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theatifwaheed/)](https://www.linkedin.com/in/theatifwaheed/)
 [![Gmail Badge](https://img.shields.io/badge/-theatifwaheed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theatifwaheed@gmail.com)](mailto:theatifwaheed@gmail.com)
-
 
 <hr>
 <br>
@@ -49,13 +64,11 @@
 
 <hr>
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=theatifwaheed&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=theatifwaheed&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/theatifwaheed/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/theatifwaheed/github-stats-transparent/output/generated/languages.svg)
-  
+
   <hr>
   
 <details open>
@@ -69,9 +82,7 @@
   </li>
   </ul>
 
-</details> 
-
-
+</details>
 
 <!--
 **theatifwaheed/theatifwaheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,5 +97,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+--> -->
