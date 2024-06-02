@@ -30,7 +30,7 @@
 - 📱 **Backstage Sorcery**: SQL, MySQL, SQFLite, Isar, and Restful APIs.
 - 🌐 **Web Wizardry**: HTML, CSS, JavaScript (basic), and Bootstrap.
 - 🚀 **VCS**: GitHub & GitLab.
-- 💾 **Database Dynamo**: Firebase.
+- 💾 **Database Dynamo**: Firebase, Isar, and SQFLite.
 - 🎨 **Design Connoisseur**: Figma, Adobe XD, for graphic design.
 - 📱 **State Management**: GetX and Bloc.
 - 🚀 **Others**: ASO, SEO, Unit Tests, Widget Tests, CI/CD & SDKs Integration.
