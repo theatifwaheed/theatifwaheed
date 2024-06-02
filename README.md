@@ -57,7 +57,7 @@
      <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />&nbsp;
-     <img src=https://isar.dev/isar.svg />&nbsp;
+     <a src=https://isar.dev/isar.svg >ISAR DB</a>&nbsp;
    </div>
   </td>
   </tr>
