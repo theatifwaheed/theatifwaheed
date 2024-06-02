@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atif Waheed</h1>
 <h3 align="center">I'm Experienced Flutter developer with 2+ years of success, leading FYP projects and deploying 25+ apps. Skilled in team leadership and committed to innovation and project success.</h3>
 
-### Let's Connect :coffee:
+## Let's Connect :coffee:
 
  <p align="center">
 <a href="mailto:theatifwaheed@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png" alt="Gmail"/></a>
