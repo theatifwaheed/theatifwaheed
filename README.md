@@ -92,6 +92,7 @@
      </td>
   </tr>
 </table>
+<center>
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -103,6 +104,7 @@
      </div>
     </td>
 </table>
+</center>
 
 ## Statistics
 
