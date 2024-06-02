@@ -1,6 +1,18 @@
 ![Top Image](https://virtualrecreation.co.uk/site/templates/images/top-slope-d.png)
+
 <h1 align="center">Hi 👋, I'm Atif Waheed</h1>
 <h3 align="center">I'm Experienced Flutter developer with 2+ years of success, leading FYP projects and deploying 25+ apps. Skilled in team leadership and committed to innovation and project success.</h3>
+
+<br/>
+
+ <div>
+      <p>🔭 I’m currently working on <b>Flutter Mobile App Development</b></p>
+      <p>🌱 I’m currently learning best practices of <b>Kotlin, Java & Swift for Native Dev.</b></p>
+      <p>💬 Ask me about <b>Mobile App Development, UI and UX.</b></p>
+      <p>⚡ Fun fact <b>I'm Workaholic, Good Learner, & Focused</b></p>
+      <!-- <p>🌐 You can visit my Portfolio at <a href="" target="_blank"><b>Atif Waheed</b></a></p> -->
+ </div>
+ <br/>
 
 ## Let's Connect :coffee:
 
