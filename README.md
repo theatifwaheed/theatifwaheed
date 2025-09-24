@@ -1,4 +1,4 @@
-![Top Image](https://raw.githubusercontent.com/theatifwaheed/theatifwaheed/master/top.png)
+![Top Image](https://raw.githubusercontent.com/theatifwaheed/theatifwaheed/main/top.png)
 
 <h1 align="center">Hi 👋, I'm Atif Waheed</h1>
 <h3 align="center">I'm Experienced Flutter developer with 3+ years of success, leading FYP projects and deploying 25+ apps. Skilled in team leadership and committed to innovation and project success.</h3>
@@ -131,7 +131,7 @@
     
 <br/>
 
-![Bottom Image](https://raw.githubusercontent.com/theatifwaheed/theatifwaheed/master/bottom.svg)
+![Bottom Image](https://raw.githubusercontent.com/theatifwaheed/theatifwaheed/main/bottom.svg)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=theatifwaheed&&style=flat-square" align="center" />
